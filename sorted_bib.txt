@@ -1,0 +1,869 @@
+\begin{thebibliography}{00}
+
+\bibitem[Abbasiantaeb et al.(2024)]{abbasiantaeb2024let}
+Abbasiantaeb, Z., Yuan, Y., Kanoulas, E., Aliannejadi, M., 2024.
+Let the LLMs talk: simulating human-to-human conversational QA via zero-shot LLM-to-LLM interactions.
+In Proceedings of the 17th ACM International Conference on Web Search and Data Mining, pp. 8–17.
+\url{https://doi.org/10.1145/3616855.3635856}
+
+
+\bibitem[Ahn et al.(2022)]{ahn2022effect}
+Ahn, J., Kim, J., and Sung, Y., 2022.
+The effect of gender stereotypes on artificial intelligence recommendations.
+J. Bus. Res., 141, 50–59.
+\url{https://doi.org/10.1016/j.jbusres.2021.12.007}
+
+
+\bibitem[Akata et al.(2025)]{akata2025playing}
+Akata, E., Schulz, L., Coda-Forno, J., Oh, S.J., Bethge, M., Schulz, E., 2025.
+Playing repeated games with large language models.
+Nat. Hum. Behav., 9, 1–11.
+\url{https://doi.org/10.1038/s41562-025-02172-y}
+
+
+\bibitem[Alicke and Sedikides(2009)]{alicke2009self}
+Alicke, M. D., and Sedikides, C., 2009.
+Self-enhancement and self-protection: what they are and what they do.
+Eur. Rev. Soc. Psychol., 20, 1–48.
+\url{https://doi.org/10.1080/10463280802613866}
+
+
+\bibitem[Amershi et al.(2019)]{amershi2019guidelines}
+Amershi, S., Weld, D.S., Vorvoreanu, M., Fourney, A., Nushi, B., Collisson, P., Suh, J., Iqbal, S.T., Bennett, P.N., Quinn, K., Teevan, J., Kikin-Gil, R., Horvitz, E., 2019.
+Guidelines for human-AI interaction.
+In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems, pp. 1–13.
+\url{https://doi.org/10.1145/3290605.3300233}
+
+
+\bibitem[An et al.(2024)]{An2024Developing}
+An, S., Li, Y., Ma, Y., Cheng, G., and Xu, G., 2024.
+Developing an LLM-empowered agent to enhance student collaborative learning through group discussion.
+In International Conference on Computers in Education.
+\url{https://doi.org/10.58459/icce.2024.4953}
+
+
+\bibitem[Aneja et al.(2021)]{Aneja2021Understanding}
+Aneja, D., Hoegen, R., McDuff, D., Czerwinski, M., 2021.
+Understanding conversational and expressive style in a multimodal embodied conversational agent.
+Proc. CHI Conf. Hum. Factors Comput. Syst., 2021.
+\url{https://doi.org/10.1145/3411764.3445708}
+
+
+\bibitem[Anicker et al.(2024)]{Anicker2024The}
+Anicker, F., Flaßhoff, G., Marcinkowski, F., 2024.
+The matrix of AI agency: on the demarcation problem in social theory.
+Sociol. Theory, 42(4), 307–328.
+\url{https://doi.org/10.1177/07352751241289925}
+
+
+\bibitem[Armutat et al.(2024)]{armutat2024artificial}
+Armutat, S., Wattenberg, M., Mauritz, N., 2024.
+Artificial intelligence: gender-specific differences in perception, understanding, and training interest.
+In Proc. Int. Conf. Gender Res., 7(1), pp. 36–43.
+\url{https://doi.org/10.34190/icgr.7.1.2163}
+
+
+\bibitem[Au and Komorita(2002)]{Au2002Effects}
+Au, W.T., Komorita, S.S., 2002.
+Effects of initial choices in the Prisoner's Dilemma.
+J. Behav. Decis. Mak., 15(4), 343–359.
+\url{https://doi.org/10.1002/bdm.419}
+
+
+\bibitem[Axelrod and Hamilton(1981)]{axelrod1981evolution}
+Axelrod, R., Hamilton, W.D., 1981.
+The evolution of cooperation.
+Science, 211, 1390–1396.
+\url{https://doi.org/10.1016/b978-0-12-384719-5.00161-1}
+
+
+\bibitem[Bakeman(2005)]{Bakeman2005Recommended}
+Bakeman, R., 2005.
+Recommended effect size statistics for repeated measures designs.
+Behav. Res. Methods, 37, 379–384.
+\url{https://doi.org/10.3758/BF03192707}
+
+
+\bibitem[Barak and Costa-Gomes(2025)]{barak2025humans}
+Barak, D., Costa-Gomes, M., 2025.
+Humans expect rationality and cooperation from LLM opponents in strategic games.
+arXiv:2505.11011.
+\url{https://arxiv.org/abs/2505.11011}
+
+
+\bibitem[Barr(2013)]{barr2013random}
+Barr, D.J., 2013.
+Random effects structure for testing interactions in linear mixed-effects models.
+Front. Psychol., 4, 328.
+\url{https://doi.org/10.3389/fpsyg.2013.00328}
+
+
+\bibitem[Bates et al.(2015)]{bates2015parsimonious}
+Bates, D., Kliegl, R., Vasishth, S., Baayen, H., 2015.
+Parsimonious mixed models.
+Stat. Sci., 30, 103–125.
+\url{https://doi.org/10.1214/14-STS511}
+
+
+\bibitem[Battigalli and Bordoli(2024)]{battigalli2024sophisticated}
+Battigalli, P., Bordoli, D., 2024.
+Sophisticated reasoning, learning, and equilibrium in repeated games with imperfect feedback.
+Econ. Theory, 1–44.
+\url{https://doi.org/10.1007/s00199-024-01588-3}
+
+
+\bibitem[Bender and Koller(2020)]{bender2020climbing}
+Bender, E.M., Koller, A., 2020.
+Climbing towards NLU: on meaning, form, and understanding in the age of data.
+In Proc. ACL 2020, pp. 5185–5198.
+\url{https://doi.org/10.18653/v1/2020.acl-main.463}
+
+
+\bibitem[Braun and Clarke(2006)]{braun2006using}
+Braun, V., Clarke, V., 2006.
+Using thematic analysis in psychology.
+Qual. Res. Psychol., 3(2), 77–101.
+\url{https://doi.org/10.1191/1478088706qp063oa}
+
+
+\bibitem[Carlsson et al.(2012)]{Carlsson2012The}
+Carlsson, F., Mørkbak, M., Olsen, S.B., 2012.
+The first time is the hardest: a test of ordering effects in choice experiments.
+J. Choice Model., 5, 19–37.
+\url{https://doi.org/10.1016/S1755-5345(13)70051-4}
+
+
+\bibitem[Castro Santa et al.(2018)]{Santa2018Beliefs}
+Castro Santa, J., Exadaktylos, F., Soto-Faraco, S., 2018.
+Beliefs about others' intentions determine whether cooperation is the faster choice.
+Sci. Rep., 8, 7509.
+\url{https://doi.org/10.1038/s41598-018-25926-3}
+
+
+\bibitem[Chelli et al.(2024)]{Chelli2024Hallucination}
+Chelli, M., Descamps, J., Lavoué, V., Trojani, C., Azar, M., Deckert, M., Raynier, J., Clowez, G., Boileau, P., Ruetsch-Chelli, C., 2024.
+Hallucination rates and reference accuracy of ChatGPT and Bard for systematic reviews: comparative analysis.
+J. Med. Internet Res., 26.
+\url{https://doi.org/10.2196/53164}
+
+
+\bibitem[Chkirbene et al.(2024)]{chkirbene2024large}
+Chkirbene, Z., Hamila, R., Gouissem, A., Unal, D., 2024.
+Large language models in industry: applications, challenges, and trends.
+In Proc. IEEE HONET 2024, pp. 229–234.
+\url{https://doi.org/10.1109/HONET63146.2024.10822885}
+
+
+\bibitem[Cohn et al.(2024)]{Cohn2024Believing}
+Cohn, M., Pushkarna, M., Olanubi, G. O., Moran, J. M., Padgett, D., Mengesha, Z., and Heldreth, C., 2024.
+Believing anthropomorphism: examining the role of anthropomorphic cues on trust in large language models.
+In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems.
+\url{https://doi.org/10.1145/3613905.3650818}
+
+
+\bibitem[Dal Bó and Fréchette(2019)]{dal2019strategy}
+Dal Bó, P., Fréchette, G.R., 2019.
+Strategy choice in the infinitely repeated Prisoner's Dilemma.
+Am. Econ. Rev., 109(11), 3929–3952.
+\url{https://doi.org/10.1257/aer.20181480}
+
+
+\bibitem[Dang et al.(2023)]{dang2023choice}
+Dang, H., Goller, S., Lehmann, F., Buschek, D., 2023.
+Choice over control: how users write with large language models using diegetic and non-diegetic prompting.
+In Proc. CHI 2023, pp. 1–17.
+\url{https://doi.org/10.1145/3544548.3580969}
+
+
+\bibitem[de Brito Duarte et al.(2023)]{de2023ai}
+de Brito Duarte, R., Correia, F., Arriaga, P., Paiva, A., 2023.
+AI trust: can explainable AI enhance warranted trust?
+Hum. Behav. Emerg. Technol., 2023(1), 4637678.
+\url{https://doi.org/10.1155/2023/4637678}
+
+
+\bibitem[De Kervenoael et al.(2024)]{DeKervenoael2024SIoT}
+De Kervenoael, R., Schwob, A., Hasan, R., Psylla, E., 2024.
+SIoT robots and consumer experiences in retail: unpacking repeat purchase intention drivers leveraging CASA paradigm.
+J. Retail. Consum. Serv., 76, 103589.
+\url{https://doi.org/10.1016/j.jretconser.2023.103589}
+
+
+\bibitem[Dignum(2018)]{Dignum2018Ethics}
+Dignum, V., 2018.
+Ethics in artificial intelligence: introduction to the special issue.
+Ethics Inf. Technol., 20, 1–3.
+\url{https://doi.org/10.1007/s10676-018-9450-z}
+
+
+\bibitem[Dvorak et al.(2025)]{dvorak2025adverse}
+Dvorak, F., Stumpf, R., Fehrler, S., Fischbacher, U., 2025.
+Adverse reactions to the use of large language models in social interactions.
+PNAS Nexus, 4(4), pgaf112.
+\url{https://doi.org/10.1093/pnasnexus/pgaf112}
+
+
+\bibitem[Endsley(2023)]{Endsley2023Supporting}
+Endsley, M., 2023.
+Supporting human–AI teams: transparency, explainability, and situation awareness.
+Comput. Hum. Behav., 140, 107574.
+\url{https://doi.org/10.1016/j.chb.2022.107574}
+
+
+\bibitem[Esterwood and Robert(2023)]{Esterwood2023Three}
+Esterwood, C., Robert, L., 2023.
+Three strikes and you are out!: the impacts of multiple human-robot trust violations and repairs on robot trustworthiness.
+Comput. Hum. Behav., 142, 107658.
+\url{https://doi.org/10.1016/j.chb.2023.107658}
+
+
+\bibitem[Farquhar et al.(2024)]{Farquhar2024Detecting}
+Farquhar, S., Kossen, J., Kuhn, L., Gal, Y., 2024.
+Detecting hallucinations in large language models using semantic entropy.
+Nature, 630, 625–630.
+\url{https://doi.org/10.1038/s41586-024-07421-0}
+
+
+\bibitem[Faul et al.(2007)]{faul2007gpower}
+Faul, F., Erdfelder, E., Lang, A.-G., Buchner, A., 2007.
+G*Power 3: a flexible statistical power analysis program for the social, behavioral, and biomedical sciences.
+Behav. Res. Methods, 39, 175–191.
+\url{https://doi.org/10.3758/BF03193146}
+
+
+\bibitem[Fontana et al.(2025)]{fontana2024nicerhumanslargelanguage}
+Fontana, N., Pierri, F., Aiello, L.M.,
+\textit{Nicer than humans: how do large language models behave in the Prisoner's Dilemma?},
+\textit{Proc. Int. AAAI Conf. Web Soc. Media}, vol. 19, no. 1, pp. 522--535, 2025,
+\url{https://doi.org/10.1609/icwsm.v19i1.35829}
+
+
+
+\bibitem[Frank(2023)]{frank2023openly}
+Frank, M.C., 2023.
+Openly accessible LLMs can help us to understand human cognition.
+Nat. Hum. Behav., 7, 1825–1827.
+\url{https://doi.org/10.1038/s41562-023-01732-4}
+
+
+\bibitem[Froding and Peterson(2021)]{froding2021friendly}
+Froding, B., Peterson, M., 2021.
+Friendly AI.
+Ethics Inf. Technol., 23, 207–214.
+\url{https://doi.org/10.1007/s10676-020-09556-w}
+
+
+\bibitem[Galland et al.(2022)]{Galland2022Adapting}
+Galland, L., Pelachaud, C., Pecune, F., 2022.
+Adapting conversational strategies in information-giving human-agent interaction.
+Front. Artif. Intell., 5, art. 1029340.
+\url{https://doi.org/10.3389/frai.2022.1029340}
+
+
+\bibitem[Gambino et al.(2020)]{Gambino2020Building}
+Gambino, A., Fox, J., and Ratan, R., 2020.
+Building a stronger CASA: extending the computers are social actors paradigm.
+HMC, 1, 71–86.
+\url{https://doi.org/10.30658/hmc.1.5}
+
+
+\bibitem[Geiselmann et al.(2023)]{geiselmann2023interacting}
+Geiselmann, R., Tsourgianni, A., Deroy, O., Harris, L.T., 2023.
+Interacting with agents without a mind: the case for artificial agents.
+Curr. Opin. Behav. Sci., 51, 101282.
+\url{https://doi.org/10.1016/j.cobeha.2023.101282}
+
+
+\bibitem[Gou and Li(2023)]{gou2023prisoner}
+Gou, Z., Li, Y., 2023.
+Prisoner's Dilemma game model based on historical strategy information.
+Sci. Rep., 13, 1.
+\url{https://doi.org/10.1038/s41598-022-26890-9}
+
+
+\bibitem[Guo et al.(2024)]{Guo2024Multi-Agent}
+Guo, H., Mu, C., Chen, Y., Shen, C., Hu, S., Wang, Z., 2024.
+Multi-agent, human–agent and beyond: a survey on cooperation in social dilemmas.
+Neurocomputing, 610, 128514.
+\url{https://doi.org/10.1016/j.neucom.2024.128514}
+
+
+\bibitem[Ha et al.(2025)]{Ha2025My}
+Ha, J., Kim, S., Lim, H., Kim, D., Lee, B., Oh, C., 2025.
+My agent or yours? Exploring emotional and moral responses in multi-agent conflict situations.
+In Ext. Abstr. CHI 2025.
+\url{https://doi.org/10.1145/3706599.3721237}
+
+
+\bibitem[Haesevoets et al.(2018)]{haesevoets2018behavioural}
+Haesevoets, T., Reinders Folmer, C.P., Bostyn, D., Van Hiel, A., 2018.
+Behavioural consistency within the Prisoner's Dilemma game: the role of personality and situation.
+Eur. J. Pers., 32, 405–426.
+\url{https://doi.org/10.1002/per.2158}
+
+
+\bibitem[Hamdi(2024)]{Hamdi2024How}
+Hamdi, M., 2024.
+How AI is transforming and shaping the future of education.
+In 2024 IEEE 28th International Conference on Intelligent Engineering Systems (INES), pp. 115–116.
+IEEE.
+\url{https://doi.org/10.1109/INES63318.2024.10629089}
+
+
+
+\bibitem[He et al.(2025)]{he2025plan}
+He, G., Demartini, G., Gadiraju, U., 2025.
+Plan-then-execute: an empirical study of user trust and team performance when using LLM agents as a daily assistant.
+In Proc. CHI 2025, pp. 1–22.
+\url{https://doi.org/10.1145/3706598.3713218}
+
+
+\bibitem[Heyselaar(2023)]{heyselaar2023casa}
+Heyselaar, E., 2023.
+The CASA theory no longer applies to desktop computers.
+Sci. Rep., 13(1), 19693.
+\url{https://doi.org/10.1038/s41598-023-46527-9}
+
+
+\bibitem[Hohenstein and Jung(2020)]{Hohenstein2020AI}
+Hohenstein, J., Jung, M.F., 2020.
+AI as a moral crumple zone: the effects of AI-mediated communication on attribution and trust.
+Comput. Hum. Behav., 106, 106190.
+\url{https://doi.org/10.1016/j.chb.2019.106190}
+
+
+\bibitem[Huang et al.(2023)]{Huang2023Recommender}
+Huang, X., Lian, J., Lei, Y., Yao, J., Lian, D., Xie, X.,
+\textit{Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations},
+\textit{ACM Trans. Inf. Syst.}, 2023, \url{https://doi.org/10.1145/3731446}
+
+
+\bibitem[Hwang and Won(2024)]{Hwang2024The}
+Hwang, A., Won, A.S., 2024.
+The sound of support: gendered voice agents helping minority teammates.
+In Proc. CHI 2024, pp. 1–14.
+\url{https://doi.org/10.1145/3613904.3642202}
+
+
+\bibitem[Igwe and Durrheim(2024)]{igwe2024using}
+Igwe, K., Durrheim, K., 2024.
+Using artificial agents to nudge outgroup altruism and reduce ingroup favoritism in human–agent interaction.
+Sci. Rep., 14, 15850.
+\url{https://doi.org/10.1038/s41598-024-64682-5}
+
+
+\bibitem[Inkpen et al.(2022)]{Inkpen2022Advancing}
+Inkpen, K., Chappidi, S., Mallari, K., Nushi, B., Ramesh, D., Michelucci, P., Mandava, V., Vepvrek, L.H., Quinn, G., 2022.
+Advancing human–AI complementarity: the impact of user expertise and algorithmic tuning on joint decision making.
+ACM Trans. Comput.-Hum. Interact., 30(4), 1–29.
+\url{https://doi.org/10.1145/3534561}
+
+
+\bibitem[Jermutus et al.(2022)]{jermutus2022influences}
+Jermutus, E., Kneale, D., Thomas, J., Michie, S., 2022.
+Influences on user trust in healthcare artificial intelligence: a systematic review.
+Wellcome Open Res., 7, 65.
+\url{https://doi.org/10.12688/wellcomeopenres.17550.1}
+
+
+\bibitem[Jiang et al.(2024)]{10.1145/3678698.3678700}
+Jiang, G., Wang, Y., Li, Y., Moosavi, N. S., and Hui, P., 2024.
+Blending social interaction realms: harmonizing online and offline interactions through augmented reality.
+In Proceedings of the 17th International Symposium on Visual Information Communication and Interaction, pp. 8.
+\url{https://doi.org/10.1145/3678698.3678700}
+
+
+\bibitem[Xia et al.(2024)]{jiang2024chemistryvr}
+Jiang, G., Xia, X., Li, Y., Liang, H.-N., Hui, P., 2024.
+ChemistryVR: enhancing educational experiences through virtual chemistry lab simulations.
+In Proc. SIGGRAPH Asia 2024 Educators Forum, Art. 1, pp. 1–5.
+\url{https://doi.org/10.1145/3680533.3697068}
+
+
+\bibitem[Jin and Eastin(2024)]{jin2024gender}
+Jin, E., Eastin, M., 2024.
+Gender bias in virtual doctor interactions: gender matching effects of chatbots and users on communication satisfaction and future intentions to use the chatbot.
+Int. J. Hum.-Comput. Interact., 40(23), 8246–8258.
+\url{https://doi.org/10.1080/10447318.2023.2279402}
+
+
+\bibitem[Karmarkar(2023)]{karmarkar2023gender}
+Karmarkar, U., 2023.
+Gender differences in “optimistic” information processing in uncertain decisions.
+Cogn. Affect. Behav. Neurosci., 23, 827–837.
+\url{https://doi.org/10.3758/s13415-023-01075-7}
+
+
+\bibitem[Kazemi et al.(2024)]{kazemi2024causal}
+Kazemi, Y., Chanel, C.P.C., Givigi, S., 2024.
+Causal reinforcement learning in iterated Prisoner's Dilemma.
+IEEE Trans. Comput. Soc. Syst., 11, 2523–2534.
+\url{https://doi.org/10.1109/TCSS.2023.3289470}
+
+
+\bibitem[Kim et al.(2024)]{kim2024understanding}
+Kim, C.Y., Lee, C.P., Mutlu, B., 2024.
+Understanding large-language-model-powered human-robot interaction.
+In Proc. ACM/IEEE Int. Conf. Human-Robot Interaction, pp. 371–380.
+\url{https://doi.org/10.1145/3610977.3634966}
+
+
+\bibitem[Kim et al.(2024)]{Kim2024Understanding}
+Kim, C.Y., Lee, C.P., Mutlu, B., 2024.
+Understanding large-language-model-powered human-robot interaction.
+In Proc. ACM/IEEE Int. Conf. Human-Robot Interaction (HRI), pp. 371–380.
+\url{https://doi.org/10.1145/3610977.3634966}
+
+
+\bibitem[Kosinski(2024)]{kosinski2024evaluating}
+Kosinski, M., 2024.
+Evaluating large language models in theory of mind tasks.
+Proc. Natl. Acad. Sci. U.S.A., 121(45), e2405460121.
+\url{https://doi.org/10.1073/pnas.2405460121}
+
+
+\bibitem[Kusal et al.(2022)]{Kusal2022AI-Based}
+Kusal, S., Patil, S., Choudrie, J., Kotecha, K., Mishra, S., Abraham, A., 2022.
+AI-based conversational agents: a scoping review from technologies to future directions.
+IEEE Access, 10, 92337–92356.
+\url{https://doi.org/10.1109/ACCESS.2022.3201144}
+
+
+\bibitem[Kuzior and Kwilinski(2022)]{kuzior2022cognitive}
+Kuzior, A., Kwilinski, A., 2022.
+Cognitive technologies and artificial intelligence in social perception.
+Manag. Syst. Prod. Eng., 30, 109–115.
+\url{https://doi.org/10.2478/mspe-2022-0014}
+
+
+\bibitem[Kuznetsova et al.(2017)]{kuznetsova2017lmertest}
+Kuznetsova, A., Brockhoff, P.B., Christensen, R.H.B., 2017.
+lmerTest package: tests in linear mixed effects models.
+J. Stat. Softw., 82, 1–26.
+\url{https://doi.org/10.18637/jss.v082.i13}
+
+
+\bibitem[Küper and Krämer(2024)]{Küper2024Psychological}
+Küper, A., Krämer, N.C., 2024.
+Psychological traits and appropriate reliance: factors shaping trust in AI.
+Int. J. Hum.-Comput. Interact., 41, 4115–4131.
+\url{https://doi.org/10.1080/10447318.2024.2348216}
+
+
+\bibitem[Lakens(2013)]{lakens2013calculating}
+Lakens, D., 2013.
+Calculating and reporting effect sizes to facilitate cumulative science: a practical primer for t-tests and ANOVAs.
+Front. Psychol., 4, 863.
+\url{https://doi.org/10.3389/fpsyg.2013.00863.}
+
+
+\bibitem[Lamparth et al.(2024)]{lamparth2024human}
+Lamparth, M., Corso, A., et al., 2024.
+Human vs. machine: behavioral differences between expert humans and language models in wargame simulations.
+In Proc. AAAI/ACM Conf. AI, Ethics, and Society, 7, pp. 807–817.
+\url{https://doi.org/10.1609/aies.v7i1.31681}
+
+
+\bibitem[Landis and Koch(1977)]{landis1977measurement}
+Landis, J.R., Koch, G.G., 1977.
+The measurement of observer agreement for categorical data.
+Biometrics, 33(1), 159–174.
+\url{https://doi.org/10.2307/2529310}
+
+
+\bibitem[Li et al.(2022)]{li2022human}
+Li, J., Huang, J., et al., 2022.
+Human-AI cooperation: modes and their effects on attitudes.
+Telemat. Inform., 73, 101862.
+\url{https://doi.org/10.1016/j.tele.2022.101862}
+
+
+\bibitem[Li et al.(2023)]{li2023tackling}
+Li, Y., Zhang, S., Sun, J., Zhang, W., Du, Y., Wen, Y., Wang, X., Pan, W., 2023.
+Tackling cooperative incompatibility for zero-shot human–AI coordination.
+J. Artif. Intell. Res., 80, 1139–1185.
+\url{https://doi.org/10.1613/jair.1.14437}
+
+
+\bibitem[Li et al.(2025)]{Li2025AI}
+Li, W., Shi, K., Chai, Y., 2025.
+AI chatbots as professional service agents: developing a professional identity.
+arXiv:2501.14179.
+\url{https://doi.org/10.48550/arXiv.2501.14179}
+
+
+\bibitem[Lim et al.(2023)]{lim2023designing}
+Lim, G., Kim, H., Choi, Y., Li, T.J.-J., Kulkarni, C., Subramonyam, H., Seering, J., Bernstein, M.S., Zhang, A.X., Glassman, E.L., 2023.
+Designing for AI-powered social computing systems.
+In Companion Publication of CSCW 2023, pp. 572–575.
+\url{https://doi.org/10.1145/3584931.3606951}
+
+
+\bibitem[Liu and Yao(2023)]{Liu2023Gender}
+Liu, W., Yao, M.Z., 2023.
+Gender identity and influence in human–machine communication: a mixed-methods exploration.
+Comput. Hum. Behav., 144, 107750.
+\url{https://doi.org/10.1016/j.chb.2023.107750}
+
+
+\bibitem[Lombard and Xu(2021)]{lombard2021social}
+Lombard, M., Xu, K., 2021.
+Social responses to media technologies in the 21st century: the media are social actors paradigm.
+Hum.-Mach. Commun., 2, 29–55.
+\url{https://doi.org/10.30658/HMC.2.2}
+
+
+\bibitem[Lu et al.(2024)]{10.1145/3653708}
+Lu, Z., Wang, D., Yin, M., 2024.
+Does more advice help? The effects of second opinions in AI-assisted decision making.
+Proc. ACM Hum.-Comput. Interact., 8, 1–31.
+\url{https://doi.org/10.1145/3653708}
+
+
+\bibitem[Lu et al.(2024)]{lu2024llms}
+Lu, Y., Aleta, A., Du, C., Shi, L., Moreno, Y., 2024.
+LLMs and generative agent-based models for complex systems research.
+Phys. Life Rev., 51, 283–293.
+\url{https://doi.org/10.1016/j.plrev.2024.10.013}
+
+
+\bibitem[Mahmood and Huang(2023)]{Mahmood2023Gender}
+Mahmood, A., Huang, C.-M., 2023.
+Gender biases in error mitigation by voice assistants.
+Proc. ACM Hum.-Comput. Interact., 8, 1–27.
+\url{https://doi.org/10.1145/3637337}
+
+
+\bibitem[Martinez-Vaquero et al.(2015)]{Martinez-Vaquero2015Apology}
+Martinez-Vaquero, L.A., Han, T.A., Pereira, L.M., Lenaerts, T., 2015.
+Apology and forgiveness evolve to resolve failures in cooperative agreements.
+Sci. Rep., 5, 10639.
+\url{https://doi.org/10.1038/srep10639}
+
+
+\bibitem[Meng et al.(2025)]{Meng2025EventTriggered}
+Meng, L., Wang, X., Wang, Z., 2025.
+Event-triggered optimized control for nonlinear multiagent systems via reinforcement learning strategy.
+*Cognit. Comput.*, vol. 17, no. 5, pp. 1–9.
+\url{https://doi.org/10.1007/s12559-024-10245-0}
+
+
+
+\bibitem[Mittelstädt et al.(2024)]{Mittelstädt2024Large}
+Mittelstädt, J., Maier, J., Goerke, P., Zinn, F., Hermes, M., 2024.
+Large language models can outperform humans in social situational judgments.
+Sci. Rep., 14.
+\url{https://doi.org/10.1038/s41598-024-79048-0}
+
+
+\bibitem[Morris et al.(2024)]{10.1145/3678884.3689134}
+Morris, M.R., Bernstein, M.S., Bigham, J.P., Bruckman, A.S., Monroy-Hernández, A., 2024.
+Is human-AI interaction CSCW?
+In Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing, pp. 95–97.
+\url{https://doi.org/10.1145/3678884.3689134}
+
+
+\bibitem[Ng(2023)]{ng2023communicative}
+Ng, Y.-L., 2023.
+When communicative AIs are cooperative actors: a prisoner's dilemma experiment on human–communicative artificial intelligence cooperation.
+Behav. Inf. Technol., 42, 2141–2151.
+\url{https://doi.org/10.1080/0144929x.2022.2111273}
+
+
+\bibitem[Nowak and Sigmund(1993)]{nowak1993chaos}
+Nowak, M., Sigmund, K., 1993.
+Chaos and the evolution of cooperation.
+Proc. Natl. Acad. Sci. U.S.A., 90, 5091–5094.
+\url{https://doi.org/10.1073/pnas.90.11.5091}
+
+
+\bibitem[Ofosu-Ampong(2023)]{ofosu2023gender}
+Ofosu-Ampong, K., 2023.
+Gender differences in perception of artificial intelligence-based tools.
+J. Digit. Art Humanit., 4, 52–56.
+\url{https://doi.org/10.33847/2712-8149.4.2_6}
+
+
+\bibitem[Oh et al.(2018)]{oh2018systematic}
+Oh, C. S., Bailenson, J., and Welch, G., 2018.
+A systematic review of social presence: definition, antecedents, and implications.
+Front. Robot. AI, 5, 114.
+\url{https://doi.org/10.3389/frobt.2018.00114}
+
+
+\bibitem[Pan et al.(2025)]{pan2025cooperation}
+Pan, D., Chen, W., Shi, J., Wu, C., Wang, D., Hong, C.S., Han, Z., 2025.
+Cooperation and decision-making of LLM agents in Bayesian-informed infinitely repeated games.
+In Proc. CISS 2025, pp. 1–6.
+\url{https://doi.org/10.1109/CISS64860.2025.10944679}
+
+
+\bibitem[Parsons(2015)]{Parsons2015Virtual}
+Parsons, T.D., 2015.
+Virtual reality for enhanced ecological validity and experimental control in the clinical, affective and social neurosciences.
+Front. Hum. Neurosci., 9, 660.
+\url{https://doi.org/10.3389/fnhum.2015.00660}
+
+
+\bibitem[Pavone and Desveaud(2025)]{Pavone2025Gendered}
+Pavone, G., Desveaud, K., 2025.
+Gendered AI in fully autonomous vehicles: the role of social presence and competence in building trust.
+J. Consum. Mark., 42(2), 240–254.
+\url{https://doi.org/10.1108/JCM-05-2024-6865}
+
+
+\bibitem[Phelps and Russell(2023)]{phelps2023machine}
+Phelps, S., Russell, Y., 2023.
+The machine psychology of cooperation: can GPT models operationalize prompts for altruism and competitiveness?
+J. Phys. Complex., 6.
+\url{https://doi.org/10.1088/2632-072X/ada711}
+
+
+\bibitem[Rane et al.(2024)]{rane2023explainable}
+Rane, N., Choudhary, S., Rane, J., 2024.
+Explainable artificial intelligence approaches for transparency and accountability in financial decision-making.
+Comput. Hum. Behav., 162, 108448.
+\url{https://doi.org/10.1016/j.chb.2024.108448}
+
+
+\bibitem[Renz et al.(2024)]{renz2024me}
+Renz, S., Kalimeris, J., Hofreiter, S., Spörrle, M., 2024.
+Me, myself and AI: how gender, personality and emotions determine willingness to use strong AI for self-improvement.
+Technol. Forecast. Soc. Change, 209, 123760.
+\url{https://doi.org/10.1016/j.techfore.2024.123760}
+
+
+\bibitem[Richardson(2011)]{richardson2011eta}
+Richardson, J.T., 2011.
+Eta squared and partial eta squared as measures of effect size in educational research.
+Educ. Res. Rev., 6, 135–147.
+\url{https://doi.org/10.1016/j.edurev.2010.12.001}
+
+
+\bibitem[Rizvi(2023)]{Rizvi2023Exploring}
+Rizvi, M., 2023.
+Exploring the landscape of artificial intelligence in education: challenges and opportunities.
+In 2023 5th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA), pp. 1–3.
+IEEE.
+\url{https://doi.org/10.1109/HORA58378.2023.10156773}
+
+
+\bibitem[Rosnow and Rosenthal(1989)]{rosnow1989definition}
+Rosnow, R.L., Rosenthal, R., 1989.
+Definition and interpretation of interaction effects.
+Psychol. Bull., 105, 143–146.
+\url{https://doi.org/10.1037/0033-2909.105.1.143}
+
+
+\bibitem[Rossetti et al.(2025)]{Rossetti2025Dynamics}
+Rossetti, C., Hauser, O., Hilbe, C., 2025.
+Dynamics of cooperation in concurrent games.
+Nat. Commun., 16.
+\url{https://doi.org/10.1038/s41467-025-56083-7}
+
+
+\bibitem[Russell(2019)]{russell2019human}
+Russell, S., 2019.
+Human compatible: AI and the problem of control.
+Penguin Books.
+
+
+\bibitem[Saeed et al.(2024)]{saeed2024how}
+Saeed, N., Akhtar, N., Attri, R., Yaqub, M., 2024.
+How violation of consumers' expectations causes perceived betrayal and related behaviors: perspectives from expectancy violation theory.
+J. Retail. Consum. Serv., 81, 103961.
+\url{https://doi.org/10.1016/j.jretconser.2024.103961}
+
+
+\bibitem[Saeed et al.(2024)]{Saeed2024Expectancy}
+Saeed, N., Akhtar, N., Attri, R., Yaqub, M., 2024.
+How violation of consumers' expectations causes perceived betrayal and related behaviors: perspectives from expectancy violation theory.
+J. Retail. Consum. Serv., 81, 103961.
+\url{https://doi.org/10.1016/j.jretconser.2024.103961}
+
+
+
+
+\bibitem[Saffarizadeh et al.(2024)]{Saffarizadeh2024My}
+Saffarizadeh, K., Keil, M., Boodraj, M., Alashoor, T., 2024.
+“My name is Alexa. What's your name?”: the impact of reciprocal self-disclosure on post-interaction trust in conversational agents.
+J. Assoc. Inf. Syst., 25(3), 528–568.
+\url{https://doi.org/10.17705/1jais.00839}
+
+
+\bibitem[Schelble et al.(2022)]{schelble2022think}
+Schelble, B.G., Flathmann, C., McNeese, N.J., Freeman, G., Mallick, R., 2022.
+Assessing shared mental models, performance, and trust in human–agent teams.
+Proc. ACM Hum.-Comput. Interact., 6, 1–29.
+\url{https://doi.org/10.1145/3492854}
+
+
+\bibitem[Schick and Schütze(2020)]{schick2020exploiting}
+Schick, T., Schütze, H., 2020.
+Exploiting cloze questions for few-shot text classification and natural language inference.
+In Proc. EACL 2021, pp. 178–197.
+\url{https://doi.org/10.18653/v1/2021.eacl-main.20}
+
+
+\bibitem[Shaikh et al.(2024)]{shaikh2024rehearsal}
+Shaikh, O., Chai, V.E., Gelfand, M.J., Yang, D., Bernstein, M.S., 2024.
+Rehearsal: simulating conflict to teach conflict resolution.
+In Proc. CHI 2024, pp. 1–20.
+\url{https://doi.org/10.1145/3613904.3642159}
+
+
+\bibitem[Shen et al.(2023)]{10.1145/3584931.3607492}
+Shen, H., Chieh-Yang, H., Wu, T.S., Huang, T.-H., 2023.
+ConvXAI: Delivering heterogeneous AI explanations via conversations to support human-AI scientific writing.
+In Companion Publication of the 2023 Conference on Computer Supported Cooperative Work and Social Computing, pp. 384–387.
+\url{https://doi.org/10.1145/3584931.3607492}
+
+
+\bibitem[Silva et al.(2023)]{silva2023explainable}
+Silva, A., Schrum, M.L., Hedlund-Botti, E., Gopalan, N., Gombolay, M., 2023.
+Explainable artificial intelligence: evaluating the objective and subjective impacts of XAI on human–agent interaction.
+Int. J. Hum.-Comput. Interact., 39, 1390–1404.
+\url{https://doi.org/10.1080/10447318.2022.2101698}
+
+
+\bibitem[Takeuchi et al.(2024)]{takeuchi2024deception}
+Takeuchi, M., Takeuchi, A., Gray, L.N., 2024.
+Is deception really a despicable tool in experiments? A discipline-specific analysis in sociological social psychology.
+Sociol. Inq., 94(1), 170–189.
+\url{https://doi.org/10.1111/soin.12548}
+
+
+\bibitem[Thissen et al.(2002)]{thissen2002quick}
+Thissen, D., Steinberg, L., Kuang, D.C., 2002.
+Quick and easy implementation of the Benjamini–Hochberg procedure for controlling the false positive rate in multiple comparisons.
+J. Educ. Behav. Stat., 27(1), 77–83.
+\url{https://doi.org/10.3102/10769986027001077}
+
+
+\bibitem[Tomlinson et al.(2020)]{Tomlinson2020Revisiting}
+Tomlinson, E.C., Schnackenberg, A., Dawley, D.D., Ash, S.R., 2020.
+Revisiting the trustworthiness–trust relationship: exploring the differential predictors of cognition- and affect-based trust.
+J. Organ. Behav., 41, 535–550.
+\url{https://doi.org/10.1002/job.2448}
+
+
+\bibitem[Vaccaro et al.(2024)]{Vaccaro2024When}
+Vaccaro, M., Almaatouq, A., Malone, T.W., 2024.
+When combinations of humans and AI are useful: a systematic review and meta-analysis.
+Nat. Hum. Behav., 8, 2293–2303.
+\url{https://doi.org/10.1038/s41562-024-02024-1}
+
+
+\bibitem[Vanneste and Puranam(2024)]{vanneste2024artificial}
+Vanneste, B.S., Puranam, P., 2024.
+Artificial intelligence, trust, and perceptions of agency.
+Acad. Manag. Rev.
+\url{https://doi.org/10.5465/amr.2022.0041}
+
+
+\bibitem[Varona and Suárez(2022)]{varona2022discrimination}
+Varona, D., Suárez, J.L., 2022.
+Discrimination, bias, fairness, and trustworthy AI.
+Appl. Sci., 12, 5826.
+\url{https://doi.org/10.3390/app12125826}
+
+
+\bibitem[Vrieze(2012)]{vrieze2012model}
+Vrieze, S.I., 2012.
+Model selection and psychological theory: differences between AIC and BIC.
+Psychol. Methods, 17, 228–243.
+\url{https://doi.org/10.1037/a0027127}
+
+
+\bibitem[Vössing et al.(2022)]{vossing2022designing}
+Vössing, M., Kühl, N., Lind, M., Satzger, G., 2022.
+Designing transparency for effective human–AI collaboration.
+Inf. Syst. Front., 24, 877–895.
+\url{https://doi.org/10.1007/s10796-022-10284-3}
+
+
+\bibitem[Wang et al.(2020)]{wang2020long}
+Wang, D., Shuai, X., Pan, Q., Li, J., Lan, X., He, M., 2020.
+Long deliberation times promote cooperation in the Prisoner's Dilemma game.
+Physica A, 537, 122719.
+\url{https://doi.org/10.1016/j.physa.2019.122719}
+
+
+\bibitem[Wang et al.(2024)]{wang2024can}
+Wang, B., Duan, H., Feng, Y., Chen, X., Fu, Y., Mo, Z., Di, X., 2024.
+Can LLMs understand social norms in autonomous driving games?
+In Proc. IEEE IAVVC 2024, pp. 1–4.
+\url{https://doi.org/10.1109/IAVVC63304.2024.10786452}
+
+
+\bibitem[Wang et al.(2023a)]{Wang2023A}
+Wang, L., Ma, C., Feng, X., Zhang, Z., Yang, H., Zhang, J., Chen, Z., Tang, J., Chen, X., Lin, Y., Zhao, W.X., Wei, Z., Wen, J., 2023.
+A survey on large language model based autonomous agents.
+Front. Comput. Sci., 18, 186345.
+\url{https://doi.org/10.1007/s11704-024-40231-1}
+
+
+\bibitem[Wang et al.(2023b)]{Wang2023Emotional}
+Wang, X., Li, X., Yin, Z., Wu, Y., Jia, L., 2023.
+Emotional intelligence of large language models.
+J. Pac. Rim Psychol., 17.
+\url{https://doi.org/10.1177/18344909231213958}
+
+
+\bibitem[Wu et al.(2023)]{wu2023brief}
+Wu, T., He, S., Liu, J., Sun, S., Liu, K., Han, Q., Tang, Y., 2023.
+A brief overview of ChatGPT: history, status quo and future development.
+IEEE/CAA J. Autom. Sinica, 10, 1122–1136.
+\url{https://doi.org/10.1109/JAS.2023.123288}
+
+
+\bibitem[Xing(2024)]{xing2024designing}
+Xing, F., 2024.
+Designing heterogeneous LLM agents for financial sentiment analysis.
+ACM Trans. Manag. Inf. Syst.
+\url{https://doi.org/10.1145/3688399}
+
+
+\bibitem[Xu et al.(2022)]{xu2022deep}
+Xu, K., Chen, X., Huang, L., 2022.
+Deep mind in social responses to technologies: explaining the CASA phenomena.
+Comput. Hum. Behav., 134, 107321.
+\url{https://doi.org/10.1016/j.chb.2022.107321}
+
+
+\bibitem[Xu et al.(2024)]{xu2024enhancing}
+Xu, Y., Gao, W., Wang, Y., Shan, X., Lin, Y.-S., 2024.
+Enhancing user experience and trust in advanced LLM-based conversational agents.
+Comput. Artif. Intell., 2(2), 1467.
+\url{https://doi.org/10.59400/cai.v2i2.1467}
+
+
+\bibitem[Yang et al.(2024)]{yang2024socialmind}
+Yang, B., Guo, Y., Xu, L., Yan, Z., Chen, H., Xing, G., Jiang, X., 2024.
+SocialMind: LLM-based proactive AR social assistive system with human-like perception for in-situ live interactions.
+Proc. ACM Interact. Mob. Wearable Ubiquitous Technol., 9(1), 1–30.
+\url{https://doi.org/10.1145/3712286}
+
+
+\bibitem[Yang et al.(2019)]{yang2019neural}
+Yang, Z., Zheng, Y., Yang, G., Li, Q., Liu, X., 2019.
+Neural signatures of cooperation enforcement and violation: a coordinate-based meta-analysis.
+Soc. Cogn. Affect. Neurosci., 14, 919–931.
+\url{https://doi.org/10.1093/scan/nsz073}
+
+
+\bibitem[Yu et al.(2025)]{yu2025trustworthy}
+Yu, M., Meng, F., Zhou, X., Wang, S., Mao, J., Pan, L., Chen, T., Wang, K., Li, X., Zhang, Y., An, B., Wen, Q., 2025.
+A survey on trustworthy LLM agents: threats and countermeasures.
+In Proc. 31st ACM SIGKDD Conf. Knowledge Discovery and Data Mining, pp. 6216–6226.
+\url{https://doi.org/10.1145/3711896.3736561}
+
+
+
+\bibitem[Zhu et al.(2025)]{Zhu2025Trust}
+Zhu, Y., Hua, G., Liu, X., Wang, C., Tang, M., 2025.
+Trust in machines: how personality trait shapes static and dynamic trust across different human–machine interaction modalities.
+Front. Psychol., 16.
+\url{https://doi.org/10.3389/fpsyg.2025.1539054}
+
+\end{thebibliography}
