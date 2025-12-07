@@ -13,7 +13,7 @@ This repository contains a utility Python script and the final, corrected biblio
 | :--- | :--- |
 | `bib.txt` | **Original Source File.** The raw, unsorted, and uncorrected list of `\bibitem` entries (kept for archival/verification purposes). |
 | `main.py` | The custom Python script used to read the raw data, extract author names, sort the entries, and output the final file. |
-| `bibliography_sorted.txt` | **Final Deliverable.** This file contains the complete bibliography list, professionally sorted alphabetically by author surname, and includes necessary character encoding fixes. |
+| `bib_sorted.txt` | **Final Deliverable.** This file contains the complete bibliography list, professionally sorted alphabetically by author surname, and includes necessary character encoding fixes. |
 
 ---
 
@@ -23,7 +23,7 @@ This project addresses the critical reviewer feedback:
 
 > **Reviewer Comment:** The list should be sorted alphabetically.
 
-The `bibliography_sorted.tex` file ensures strict adherence to:
+The `bib_sorted.txt` file ensures strict adherence to:
 
 1.  **Alphabetical Order:** All `\bibitem` entries are sorted based on the **first author's surname** (A-Z).
 2.  **Character Encoding:** All special character issues (e.g., en-dashes, umlauts, non-standard hyphens) have been corrected to ensure successful LaTeX compilation.
@@ -40,7 +40,7 @@ If you wish to re-run the sorting process, follow these steps:
 2.  Place your raw bibliography content into the `bib.txt` file.
 3.  Execute the script from your terminal:
     ```bash
-    python sort_bib.py
+    python3 main.py
     ```
 4.  The script will report the number of references detected and save the sorted output to `sorted_bib.txt` (or the file name specified in the script).
 
